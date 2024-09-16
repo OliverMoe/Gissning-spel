@@ -1,0 +1,14 @@
+C:\Programering\Gissning-spel\bin\Debug\net8.0\Gissning-spel.exe
+C:\Programering\Gissning-spel\bin\Debug\net8.0\Gissning-spel.deps.json
+C:\Programering\Gissning-spel\bin\Debug\net8.0\Gissning-spel.runtimeconfig.json
+C:\Programering\Gissning-spel\bin\Debug\net8.0\Gissning-spel.dll
+C:\Programering\Gissning-spel\bin\Debug\net8.0\Gissning-spel.pdb
+C:\Programering\Gissning-spel\obj\Debug\net8.0\Gissning-spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programering\Gissning-spel\obj\Debug\net8.0\Gissning-spel.AssemblyInfoInputs.cache
+C:\Programering\Gissning-spel\obj\Debug\net8.0\Gissning-spel.AssemblyInfo.cs
+C:\Programering\Gissning-spel\obj\Debug\net8.0\Gissning-spel.csproj.CoreCompileInputs.cache
+C:\Programering\Gissning-spel\obj\Debug\net8.0\Gissning-spel.dll
+C:\Programering\Gissning-spel\obj\Debug\net8.0\refint\Gissning-spel.dll
+C:\Programering\Gissning-spel\obj\Debug\net8.0\Gissning-spel.pdb
+C:\Programering\Gissning-spel\obj\Debug\net8.0\Gissning-spel.genruntimeconfig.cache
+C:\Programering\Gissning-spel\obj\Debug\net8.0\ref\Gissning-spel.dll
